@@ -7,15 +7,13 @@ https://rahmedy.github.io/Responsive-Site/
 ![License](https://img.shields.io/badge/License-none-blue.svg)
 ## Description
 Creating a Responsive site with HTML and SCSS 
+
 ## Table of Contents
-* [Installation](#installation)
 * [Usage](#usage)
 * [Contribution Guidelines](#contribution-guidelines)
 * [Tests](#tests)
 * [Questions](#questions)
-## Installation
-To installrun the following command:
-``` npm i ```
+
 ## Use
 Ecommerce 
 ## License
@@ -27,6 +25,8 @@ Run the following command:
 ``` Start Live Server ```
 
 
-Contact rayanahmedy1999@gmail.com
-##
-GitHub account:  https://github.com/@rahmedy
+## Contact 
+rayanahmedy1999@gmail.com
+
+## GitHub account:  
+https://github.com/@rahmedy
