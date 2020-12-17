@@ -1,7 +1,7 @@
 # Responsive Ecommerce 
 
 ## Deployed Application:
-https://rahmedy.github.io/Responsive-Site/
+https://rahmedy.github.io/Responsive-Ecommerce/
  
     
 ![License](https://img.shields.io/badge/License-none-blue.svg)
