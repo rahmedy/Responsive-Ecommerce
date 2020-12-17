@@ -6,7 +6,7 @@ https://rahmedy.github.io/Responsive-Site/
     
 ![License](https://img.shields.io/badge/License-none-blue.svg)
 ## Description
-Creating a Responsive site with HTML and SCSS 
+Created a minimal E-commerce site with a clean UI ready for use. The site does not have back-end functionality. This was created for UI purposes to showcase my front-end SCSS skills and to further practice and enhance my ability in development. Please contact me with any inquiries.
 
 ## Table of Contents
 * [Usage](#usage)
