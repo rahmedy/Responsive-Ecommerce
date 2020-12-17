@@ -1,6 +1,5 @@
 # Responsive-Site
 
 ## Deployed Application:
+https://rahmedy.github.io/Responsive-Site/
 
-
-Creating a Responsive site with HTML and SCSS 
